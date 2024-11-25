@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaishavi</h1>
+<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 <h3 align="center">A passionate MERN Stackdeveloper from INDIA focused on crafting seamless digital experiences.</h3>
 
 - 🔭 I’m currently working on **Pinterest Clone**, primarily focusing on the backend as part of my web development journey. 
