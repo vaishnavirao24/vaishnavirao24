@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
-<h3 align="center">A passionate MERN Stackdeveloper from INDIA focused on crafting seamless digital experiences.</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast from , dedicated to building intelligent AI models and data-driven solutions.</h3>
 
-- 🔭 I’m currently working on **Pinterest Clone**, primarily focusing on the backend as part of my web development journey. 
+- 🔭 I’m currently working on Neural Networks, including deep learning architectures like CNNs and RNNs, Health Disease Prediction Models, and Image Processing Applications.
 - 👨‍💻 All of my projects are available at [https://sreevaishnavi.framer.website/](https://sreevaishnavi.framer.website/)
 
-- 💬 Ask me about **Web Development, MERN Stack, UI/UX Design, and creating engaging websites.**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, Data Science, Neural Networks and AI Model Deployment.**
 
 - 📫 How to reach me **sreevaishnavirao@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b2ASW9QELKZXtXvyZZQPhsZx0jxgTiYq/view?usp=drive_link](https://drive.google.com/file/d/1b2ASW9QELKZXtXvyZZQPhsZx0jxgTiYq/view?usp=drive_link)
 
-- ⚡ Fun fact **I once tried to debug a pizza order and realized my browser doesn’t have a “delivery tracker” extension. 🍕**
+- ⚡ Fun fact"I told my model to predict my future—it just showed me an infinite loop. 🔄"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
