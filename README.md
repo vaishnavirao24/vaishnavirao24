@@ -15,7 +15,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/k-prakhar-narayan-8366b425a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[https://linkedin.com/in/https://www.linkedin.com/in/k-prakhar-narayan-8366b425a](https://www.linkedin.com/in/k-sreevaishnavi-a41a09255/)/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sreevaishnavirao@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://twitter.com/https://x.com/kprakhar1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
