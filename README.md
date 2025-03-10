@@ -1,7 +1,3 @@
-<!-- Futuristic AI Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+Vaishnavi's+Neural+Network" alt="AI Banner" width="100%">
-</p>
 
 <!-- Animated Greeting -->
 <h1 align="center">
@@ -59,11 +55,10 @@ Hey there! I'm Vaishnavi, a Machine Learning Enthusiast with a passion for unrav
 Check out some of my favorite projects:
 
 - **[Health Disease Prediction Model]** - A machine learning model to predict diseases using patient data. *Tech stack: Python, Pandas, Scikit-Learn, TensorFlow*.  
-  🔗 [Link to repo or live demo]
+  🔗 https://github.com/vaishnavirao24/Image-Cartoonifier
 
 - **[Image Processing Application]** - An application for real-time image analysis and enhancement. *Tech stack: Python, OpenCV, TensorFlow*.  
-  🔗 [Link to repo or live demo]
-
+  🔗 https://github.com/vaishnavirao24/Heart-Disease-Prediction
 
 ---
 
