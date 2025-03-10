@@ -52,7 +52,6 @@ Hey there! I'm Vaishnavi, a Machine Learning Enthusiast with a passion for unrav
   <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/> </a>
 </p>
----
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
@@ -65,7 +64,6 @@ Check out some of my favorite projects:
 - **[Image Processing Application]** - An application for real-time image analysis and enhancement. *Tech stack: Python, OpenCV, TensorFlow*.  
   🔗 [Link to repo or live demo]
 
-👨‍💻 All of my projects are available at [https://sreevaishnavi.framer.website/](https://sreevaishnavi.framer.website/)
 
 ---
 
