@@ -55,16 +55,6 @@ Hey there! I'm Vaishnavi, a Machine Learning Enthusiast with a passion for unrav
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 My Data Universe
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 
@@ -74,9 +64,6 @@ Check out some of my favorite projects:
   🔗 [Link to repo or live demo]
 
 - **[Image Processing Application]** - An application for real-time image analysis and enhancement. *Tech stack: Python, OpenCV, TensorFlow*.  
-  🔗 [Link to repo or live demo]
-
-- **[Neural Network Experiment]** - A deep learning model exploring CNNs and RNNs for [specific use case]. *Tech stack: Python, PyTorch, Jupyter Notebook*.  
   🔗 [Link to repo or live demo]
 
 👨‍💻 All of my projects are available at [https://sreevaishnavi.framer.website/](https://sreevaishnavi.framer.website/)
@@ -104,23 +91,7 @@ I'm always excited to collaborate, discuss AI, or help with your next project. F
 
 ---
 
-<!-- Fun Section -->
-## 🎮 Beyond the Algorithms
-
-When I'm not training models or debugging code, you can find me:
-
-- 📚 Reading up on the latest AI research papers
-- 🎨 Experimenting with generative art using AI
-- ☕ Sipping coffee while contemplating the ethics of AI
-
----
-
 <!-- Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Thanks for visiting my digital neural network!</b>
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://visitor-badge.laobiangao.workers.dev/badge?page_id=yourusername.yourusername" alt="Visitor Badge">
+  Thank you for visiting!
 </p>
