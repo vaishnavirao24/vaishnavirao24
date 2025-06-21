@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Vaishnavi! 🤖  
 </h1>   
  
-<!-- Tagline --> 
+<!-- Tagline -->  
 <p align="center">
   <i>A passionate Machine Learning Enthusiast dedicated to building intelligent AI models and data-driven solutions</i>
 </p>
